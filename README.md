@@ -36,4 +36,4 @@ python main.py --base_currency USD --target_currency RUB --amount 100
 
 ### Цель проекта
 
-Код написан в образовательных целях.
+Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
