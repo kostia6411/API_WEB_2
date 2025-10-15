@@ -40,5 +40,6 @@ def main():
     except requests.HTTPError:
         print("Запрос не найден")
 
+
 if __name__ == '__main__':
     main()
